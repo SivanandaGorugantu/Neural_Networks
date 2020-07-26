@@ -6,9 +6,9 @@ A series of experiments to solve mathematical equations using NNs.
 
 |Equation|Params|Accuracy|
 |--------|------|--------|
-|![equation](https://latex.codecogs.com/gif.download?2a+6b+c)|4|100%|
-|![equation](https://latex.codecogs.com/gif.download?2ab%20+%206b%20+%20ca)| 625| 99.62%|
-|![equation](https://latex.codecogs.com/gif.download?ax%5E2%20+%20bx%20+%20c)| 11,185| 99.94%|
-|![equation](https://latex.codecogs.com/gif.download?%28a%20+%20b%29%5E2%20%3D%20a%5E2%20+%20b%5E2%20+%202ab)| 11,153|100%|
+|2a+6b+c|4|100%|
+|2ab+6b+ca| 625| 99.62%|
+|ax^2+bx+c| 11,185| 99.94%|
+|(a+b)^2 = a^2+b^2+2ab| 11,153|100%|
 
 
